@@ -1,4 +1,4 @@
-# SMKS
+# SNAKES 🐍
 
 *Snakemake pipelines*
 
