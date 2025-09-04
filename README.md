@@ -8,6 +8,10 @@
 
 - [smk_sv_ngs](https://github.com/mhjiang97/smk_sv_ngs)
 
+## WES
+
+- [smk_wes](https://github.com/mhjiang97/smk_wes)
+
 ## RNA-seq
 
 - [smk_rnaseq](https://github.com/mhjiang97/smk_rnaseq)
