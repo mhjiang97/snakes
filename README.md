@@ -6,6 +6,8 @@
 
 - [smk_sv](https://github.com/jasonwong-lab/smk_sv)
 
+- [smk_wgs](https://github.com/mhjiang97/smk_wgs)
+
 - [smk_sv_ngs](https://github.com/mhjiang97/smk_sv_ngs)
 
 ## WES
